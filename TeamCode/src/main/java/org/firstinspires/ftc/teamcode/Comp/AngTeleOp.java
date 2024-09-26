@@ -90,6 +90,7 @@ public class AngTeleOp extends LinearOpMode {
 //                telemetry.addData("Status", "Rotating Servo Clockwise");
 //            }
 //
+            //hi
 //            if (right_stick_y > 0) {
 //                robot.servo2.setPower(0.1);
 //            }
